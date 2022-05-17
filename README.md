@@ -1,1 +1,2 @@
-# group25capstoneInventory
+# group25capstoneInventory 
+Second Capstone project
